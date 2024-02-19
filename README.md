@@ -1,6 +1,6 @@
 IDS - Lab JavaRMIChat
 
-Our Chat in Java using RMI for the IDS option. Everything on how it works is in comments.
+My Chat in Java using RMI for the IDS option. Everything on how it works is in comments.
 To compile it, you can just javac *.java, works just fine. To test it, run the rmiregistry from the .class files location and you can run ChatServer and ChatClient from terminal with "java ChatClient " and "java ChatServer".
 For the Client a login will be ask and you will directly be connected to server, after that every option will be available.
 
